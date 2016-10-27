@@ -1,2 +1,2 @@
 # mobile
-A vim plugin that helps using vim on a phone
+A vim plugin that helps with using vim on a phone
