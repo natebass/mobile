@@ -1,4 +1,4 @@
 function! mobile#ToggleReader()
-	set nowrap!
-	set nolinebreak!
+	setlocal nowrap!
+	setlocal nolinebreak!
 endfunction<Paste>
